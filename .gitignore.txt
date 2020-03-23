@@ -1,2 +1,2 @@
-.SyncRandomTest/bin
-.SyncRandomTest/obj
+SyncRandomTest/bin
+SyncRandomTest/obj
