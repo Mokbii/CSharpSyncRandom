@@ -1,0 +1,2 @@
+.SyncRandomTest/bin
+.SyncRandomTest/obj
